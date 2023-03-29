@@ -1,6 +1,3 @@
-# k8s-all-in-one
-Create a All-in-one Kubernetes Cluster.
-
 # Monitoramento - Prometheus
 
 Para subir a stack de Monitoramento no kubernetes 
